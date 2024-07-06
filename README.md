@@ -24,7 +24,7 @@ Python script designed to perform basic manipulations on text files obtained fro
 
 2. **Run the script**:
     ```bash
-    python text_manipulation.py
+    scrypt.py
     ```
 
 3. **Follow the prompts**:
